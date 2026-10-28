@@ -1,0 +1,8 @@
+{
+  "appId": "com.bakiharian.app",
+  "appName": "Baki Harian",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  }
+}

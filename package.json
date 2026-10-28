@@ -1,0 +1,11 @@
+{
+  "name": "baki-harian",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tracker belanja harian dengan baki terkumpul",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}
